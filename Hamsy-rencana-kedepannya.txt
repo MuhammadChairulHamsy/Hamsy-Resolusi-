@@ -6,6 +6,7 @@ Rencana baru Hamsy
   *Framework JavaScript
     ^React
     ^NodeJS
+    ^Vue
 -WEB DEVELOPMENT
 -Belajar React
 -Belajar Tailwind
