@@ -1,0 +1,6 @@
+Rencana baru Hamsy
+
+-Belajar CSS
+-Belajar JavaScript
+-Belajar React
+-Belajar Tailwind
