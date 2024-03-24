@@ -4,6 +4,10 @@ Rencana baru Hamsy
 -Belajar JavaScript
   *ES6
   *Framework JavaScript
+    ^React
+    ^NodeJS
+    ^Vue
 -WEB DEVELOPMENT
 -Belajar React
 -Belajar Tailwind
+-Belajar PHP
