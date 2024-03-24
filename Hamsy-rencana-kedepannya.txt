@@ -1,6 +1,7 @@
 Rencana baru Hamsy
 
 -Belajar CSS
+  ^ Tailwind
 -Belajar JavaScript
   *ES6
   *Framework JavaScript
@@ -8,6 +9,5 @@ Rencana baru Hamsy
     ^NodeJS
     ^Vue
 -WEB DEVELOPMENT
--Belajar React
 -Belajar Tailwind
 -Belajar PHP
