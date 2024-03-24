@@ -2,5 +2,7 @@ Rencana baru Hamsy
 
 -Belajar CSS
 -Belajar JavaScript
+  *ES6
+  *Framework JavaScript
 -Belajar React
 -Belajar Tailwind
